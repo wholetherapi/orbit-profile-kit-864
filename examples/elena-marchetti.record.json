@@ -1,0 +1,22 @@
+{
+  "slug": "elena-marchetti",
+  "full_name": "Elena Marchetti",
+  "status_line": "Professor of Computational Biophysics at Halcyon Institute of Applied Sciences (HIAS)",
+  "affiliation_code": "HIAS",
+  "affiliation_name": "Halcyon Institute of Applied Sciences",
+  "research_area": "Computational Biophysics",
+  "research_summary": "Development of coarse-grained models for protein folding and assembly.",
+  "education": [
+    {
+      "degree": "Ph.D. in Physical Chemistry",
+      "institution": "Northgate University of Technology",
+      "years": "2004-2008"
+    },
+    {
+      "degree": "M.Sc. in Chemistry",
+      "institution": "Northgate University of Technology",
+      "years": "2001-2004"
+    }
+  ],
+  "contact_email": "elena.marchetti@hias.example.org"
+}
