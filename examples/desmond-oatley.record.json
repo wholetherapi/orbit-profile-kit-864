@@ -1,0 +1,22 @@
+{
+  "slug": "desmond-oatley",
+  "full_name": "Desmond Oatley",
+  "status_line": "Postdoctoral researcher in Experimental Soft Matter at Halcyon Institute of Applied Sciences (HIAS)",
+  "affiliation_code": "HIAS",
+  "affiliation_name": "Halcyon Institute of Applied Sciences",
+  "research_area": "Experimental Soft Matter",
+  "research_summary": "Rheology of active colloidal suspensions and their response to shear.",
+  "education": [
+    {
+      "degree": "Ph.D. in Soft Matter Physics",
+      "institution": "Kiryu Institute of Technology",
+      "years": "2019-2023"
+    },
+    {
+      "degree": "M.Sc. in Physics",
+      "institution": "Kiryu Institute of Technology",
+      "years": "2016-2019"
+    }
+  ],
+  "contact_email": "desmond.oatley@hias.example.org"
+}
